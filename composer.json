@@ -1,0 +1,14 @@
+{
+    "name": "criminal/composer",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "criminal",
+            "email": "kriminalaverno@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "~3.3",
+        "bootstrap-app/apache": "0.1.*"
+    }
+}
