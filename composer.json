@@ -11,9 +11,9 @@
         "twbs/bootstrap": "~3.3",
         "bootstrap-app/apache": "0.1.*"
     },
-  "autoload": {
-    //"files": ["./vendor/illuminate/filesystem/Filesystem.php"]
-
+  "autoload":{
+    "psr-4" : {"Acme\\": "src/"}
   }
+
 
 }
