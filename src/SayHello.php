@@ -17,7 +17,7 @@ class SayHello
 
     function sayHello()
     {
-        echo "Hello World";
+        echo "Hello World\n";
     }
 
 }
