@@ -1,6 +1,6 @@
 
 <?php
-require "./vendor/illuminate/filesystem/Filesystem.php";
+require "./vendor/autoload.php";
 $fs = new Filesystem();
 echo "HELLO WORLD!";
 ?>
